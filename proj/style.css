@@ -1,5 +1,5 @@
 body {
-    background-color: darkslateblue;
+    background-color: #b6ddc8;
     height: 100vh;
     margin: 0px;
     padding: 0px;
@@ -9,15 +9,15 @@ body {
     margin: 0px;
     display: flex;
     justify-content: center;
-    background-color: blanchedalmond;
-    color: darkslateblue;
+    background: color #ecc4de;
+    color: #ec6391;
 }
 
 .time{
     height: 10%;
     display:flex;
     justify-content: center;
-    color:lightpink;
+    color: #ec6391;
 }
 .main {
     height: 65%;
@@ -35,7 +35,6 @@ body {
     height: 200px;
     width: 150px;
     margin: 10px;
-    background-color: lightpink;
-    border: 6px solid #7922CC;
+    border: 6px solid #ec6391;
     border-radius: 25px;
 }
